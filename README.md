@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @genarboi
-- 👀 I’m interested in purebasic
-- 🌱 I’m currently learning purebasic
+- 👀 I’m interested in javascript
+- 🌱 I’m currently learning javascript
 
 <!---
 genarboi/genarboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
